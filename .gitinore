@@ -1,0 +1,16 @@
+# 환경 변수 및 API 키 파일 숨기기
+.env
+
+# 로컬 SQLite 데이터베이스 파일 제외
+*.db
+*.db-journal
+
+# 파이썬 가상환경 및 캐시 파일 제외
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 운영체제 생성 파일 제외
+.DS_Store
+Thumbs.db

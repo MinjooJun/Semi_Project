@@ -1,0 +1,24 @@
+# 1. Base & API
+requests==2.32.3
+
+# 2. News Crawling & Scraping
+newspaper4k==0.9.3
+lxml==5.2.2
+
+# 3. Machine Learning & NLP (중복 필터링, 카테고리 분류, K-Means 군집화)
+scikit-learn==1.5.0
+scipy==1.13.1
+numpy==1.26.4
+# Sentence-Transformers (텍스트 임베딩/유사도 검사용 - 선택 사항)
+sentence-transformers==3.0.1 
+
+# 4. Korean Natural Language Processing (워드클라우드 명사 추출용)
+konlpy==0.6.0
+
+# 5. Dashboard & Visualization (대시보드 및 워드클라우드 시각화)
+streamlit==1.36.0
+wordcloud==1.9.3
+matplotlib==3.9.0
+
+# 6. Database (PostgreSQL 연동 대비용 / SQLite는 파이썬 내장이라 제외)
+psycopg2-binary==2.9.9
