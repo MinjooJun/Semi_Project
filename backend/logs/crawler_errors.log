@@ -1,0 +1,7 @@
+2026-07-10 14:32:56,940 - [Scraper] - URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=001&aid=12345 | 에러 내용: BeautifulSoup 파싱 실패 - article#dic_area 태그를 찾을 수 없습니다. (디자인 개편 의심)
+2026-07-10 14:32:56,941 - [Scraper] - URL: https://n.news.naver.com/mnews/article/079/0004167156?sid=102 | 에러 내용: HTTPSConnectionPool(host='n.news.naver.com', port=443): Read timed out.
+2026-07-10 14:42:10,838 - [Scraper] - URL: https://n.news.naver.com/mnews/article/123/0002386318?sid=101 | 에러 내용: HTTPSConnectionPool(host='n.news.naver.com', port=443): Read timed out.
+2026-07-10 14:42:45,665 - [Scraper] - URL: https://n.news.naver.com/mnews/article/009/0005705671?sid=103 | 에러 내용: HTTPSConnectionPool(host='n.news.naver.com', port=443): Read timed out.
+2026-07-10 14:45:22,124 - [Scraper] - URL: https://n.news.naver.com/mnews/article/215/0001258311?sid=101 | 에러 내용: HTTPSConnectionPool(host='n.news.naver.com', port=443): Read timed out.
+2026-07-10 14:53:38,858 - [Scraper] - URL: https://n.news.naver.com/mnews/article/421/0009052647?sid=100 | 에러 내용: HTTPSConnectionPool(host='n.news.naver.com', port=443): Read timed out.
+2026-07-10 15:09:47,887 - [Scraper] - URL: https://n.news.naver.com/mnews/article/001/0016187672?sid=103 | 에러 내용: HTTPSConnectionPool(host='n.news.naver.com', port=443): Read timed out.
